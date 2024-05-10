@@ -1,6 +1,4 @@
 "use client"
-import Image from "next/image"
-import Video from "next-video"
 import { Button } from "./ui/button"
 import { ArrowRightIcon } from "@heroicons/react/20/solid"
 import { useState } from "react" // Import useState
