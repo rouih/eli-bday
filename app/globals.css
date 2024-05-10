@@ -16,6 +16,12 @@
   }
 }
 
+.pageBackground {
+  background-image: url("./assets/show.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
